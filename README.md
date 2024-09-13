@@ -103,10 +103,10 @@ print("Polynomial Trend Equation (Degree 3): y = {:.2f} * x^3 + {:.2f} * x^2 + {
 ### OUTPUT:
 
 A - LINEAR TREND ESTIMATION:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/c99e6f39-09b7-4378-9790-279c3d6071d4)
 
 B- POLYNOMIAL TREND ESTIMATION:
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/4a94fb5e-89f6-466c-9436-9f36e324bb6c)
 
 ### RESULT:
 Thus the python program for linear and Polynomial Trend Estimation has been executed successfully.
